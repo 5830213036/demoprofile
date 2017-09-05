@@ -1,7 +1,11 @@
 body {
     padding: 30px 100px;
-    font-family: 'Prompt', sans-serif;
+    font-family: 'kanit', sans-serif;
     background-color: lightskyblue;
+}
+
+h2{
+    font-family: 'Athiti', sans-serif;
 }
 
 .img-circle {
